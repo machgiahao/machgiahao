@@ -10,7 +10,7 @@ I enjoy solving challenging backend problems, learning new technologies, and wor
 
 
 ## 📚 Currently Learning
-- Applying **CQRS + Clean Architecture** in real-world backend systems  
+- Learning and researching **System Design** concepts and **Design Patterns** 
 - Explore **Cloud Services** like Azure for software deployment
 
 
