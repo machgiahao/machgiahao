@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About Me
-I'm a **Backend Developer** passionate about designing scalable systems, building clean APIs, and optimizing database performance.  
+I'm a **Backend Developer** passionate about designing scalable systems, building clean APIs.  
 I enjoy solving challenging backend problems, learning new technologies, and working in collaborative teams to deliver impactful products.  
 
 - 🔭 Currently focused on **Node.js, Express.js, NestJS, and PostgreSQL**  
