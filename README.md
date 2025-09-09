@@ -6,7 +6,7 @@ I'm a **Backend Developer** passionate about designing scalable systems, buildin
 I enjoy solving challenging backend problems, learning new technologies, and working in collaborative teams to deliver impactful products.  
 
 - 🔭 Currently focused on **Node.js, Express.js, NestJS, and PostgreSQL**  
-- 🚀 Long-term goal: Become a Senior Backend Developer** 
+- 🚀 Long-term goal: Become a **Senior Backend Developer** 
 
 
 ## 📚 Currently Learning
